@@ -3,4 +3,6 @@ As a new Grad, you wanted to step in a Career as a Analyst but wanted to researc
 
 Prepare: I got this Dataset from Kaggle. The data we used from this Data that we wanted to adress what kind of Job openings comes up with the Analyst and how much the min, max, Average salary of Analyst make. What are the most populare Software Skills that is needed for the openings. After we figure what kind of problem that we wanted to Address. The first thing we do is used Exploratory Data Analysis to find patterns of the Data and see what kind we do. Then we Cleann the Data and made sure there wasn't any Duplicates of Data or missing Values.
 
-Summary: We found out Data Analyst is the top job openings. The main language does Analyst do is SQL & Excel.
+Summary: 
+- We found out Data Analyst is the top job openings. 
+- The main language does Analyst do is SQL & Excel.
