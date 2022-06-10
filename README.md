@@ -6,3 +6,6 @@ Prepare: I got this Dataset from Kaggle. The data we used from this Data that we
 Summary: 
 - We found out Data Analyst is the top job openings. 
 - The main language does Analyst do is SQL & Excel.
+- The average Salary is 55-80K
+- The Min Salary 40-60K
+- The Max Salary 67-95K
